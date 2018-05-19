@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="input_min_number">Input MIN number</string>
+    <string name="input_max_number">Input MAX number</string>
+    <string name="randomize">Randomize</string>
+    <string name="odd">Odd only</string>
+    <string name="even">Even only</string>
+    <string name="allNum">All numbers</string>
+    <string name="setCheck">Set checkbox</string>
+</resources>

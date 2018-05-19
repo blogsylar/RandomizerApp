@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Рандомайзер</string>
+    <string name="input_max_number">Введите финальное число</string>
+    <string name="input_min_number">Введите начальное число</string>
+    <string name="randomize">Сгенерировать</string>
+    <string name="odd">Нечетные</string>
+    <string name="even">Четные</string>
+    <string name="allNum">Все числа</string>
+    <string name="setCheck">Выберите какие числа отображать</string>
+</resources>
